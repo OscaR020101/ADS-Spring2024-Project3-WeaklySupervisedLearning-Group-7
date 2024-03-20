@@ -11,7 +11,6 @@ Term: Fall 2022
 	+ team member 2
 	+ team member 3
 	+ team member 4
-	+ team member 5
 
 + Project summary: In this project, we created ...
 	
